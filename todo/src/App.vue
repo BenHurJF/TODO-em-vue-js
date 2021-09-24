@@ -23,7 +23,6 @@
 </template>
 
 <script>
-// import hello from './components/hello.vue'
 import Todo from "./components/Todo.vue";
 
 export default {
