@@ -29,9 +29,7 @@ export default {
   name: 'app',
   components: { Todo },
   data() {
-    return { todos: [
-
-    ], todo: { checked: false } };
+    return { todos: [] , todo: { checked: false } };
   },
   methods: {
     addTodo(todo) {
